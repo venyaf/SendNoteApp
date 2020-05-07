@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593987410473",
+    "firebase_url": "https://sendnoteapp.firebaseio.com",
+    "project_id": "sendnoteapp",
+    "storage_bucket": "sendnoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593987410473:android:8bee7e2ca380ada6f85a38",
+        "android_client_info": {
+          "package_name": "com.veny.sendnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593987410473-b30bpobtbb2vhl9ivuvc3m462jvo04au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veny.sendnoteapp",
+            "certificate_hash": "cf348fde380f492f66f58dd1a0cae7341d230f23"
+          }
+        },
+        {
+          "client_id": "593987410473-irp5v9upbb7501ep5osma5e1ntdkn4a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL9TP7H57T_1jaLBBC4rUp_OMjjIFrjxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593987410473-irp5v9upbb7501ep5osma5e1ntdkn4a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
